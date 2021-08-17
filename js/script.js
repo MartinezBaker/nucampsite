@@ -26,7 +26,7 @@
         $(function() {
             $("#loginButton").click(function(){
                $("#loginModal").modal();
-               $("#loginModal").modal({ keyboard: false })
+               $("#loginModal").modal({ keyboard: false})
                $("#loginModal").modal("show")
             })
         })
